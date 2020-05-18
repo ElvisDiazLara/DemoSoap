@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.app.LoaderManager android.content.Loader&lt;D&gt; initLoader(int, android.os.Bundle, android.app.LoaderManager.LoaderCallbacks&lt;D&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>
